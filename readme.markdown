@@ -48,6 +48,6 @@ Submissions are evaluated on Accuracy Score between the predicted and the actual
 __`Data Pirates🏴‍☠️ (Our Team Name)`__
 |Members|
 |:-|
-|[Animesh Singh](https://github.com/animeshdebug7)|
+|[Animesh Singh](https://github.com/animeshdebug7)(me)|
 |[Aishwarya Kshirsagar](https://github.com/AishwaryaKshirsagar)| 
-|[Darkstar](https://github.com/DarkstarDream) (me)| 
+|[Darkstar](https://github.com/DarkstarDream)| 
